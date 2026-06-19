@@ -21,3 +21,5 @@ This repository contains a post-election statistical analysis that benchmarks ex
 ├── src/
 │   └── analysis.py              # Main execution script for calculations & plots
 ├── README.md                    # Project documentation
+## Performance Visualization
+![Agency Performance Comparison Chart](agency_comparison.png)
